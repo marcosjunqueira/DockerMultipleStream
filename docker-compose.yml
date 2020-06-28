@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
     restreamer:
-        image: sitetune/multiplestream:latest
+        image: marcosjunqueira/sitetune-multiplestream:0.0.1
         networks:
             - backend
         ports:
