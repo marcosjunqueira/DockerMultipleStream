@@ -1,6 +1,6 @@
 # SiteTune Docker MultipleStream #
 
-## Sobre ##
+## Sobre/About ##
 
 ### Português do Brasil ###
 Com esse projeto você poderá fazer transmissões simultâneas para YouTube e Facebook.
